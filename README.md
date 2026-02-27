@@ -1,6 +1,5 @@
 <HTML>
 <HEAD>
-<TITLE> птичка бурмолдичка</TITLE>
 </HEAD>
 <BODY>
 Всем привет!!!<br>
